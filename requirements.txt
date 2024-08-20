@@ -1,0 +1,3 @@
+fastapi>=0.112,<1
+uvicorn>=0.30,<1
+monday-code>=0.1, <1
